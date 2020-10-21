@@ -10,7 +10,7 @@ import {
 const Header = () => {
   return (
     <div>
-      <EuiHeader >
+      <EuiHeader>
         <EuiHeaderSectionItem border = "none" className = {style['header']}>
           <EuiHeaderLogo>Wilo</EuiHeaderLogo>
         </EuiHeaderSectionItem>

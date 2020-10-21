@@ -9,7 +9,7 @@ const Result = () => {
     return (
         <EuiFlexGroup wrap gutterSize = "xl">
         <EuiFlexItem grow = {2}>
-            <NotFound />
+            <PredictInfo />
         </EuiFlexItem>
         <EuiFlexItem grow = {1} className = {style['search-image']}>
             <SearchImage/>
