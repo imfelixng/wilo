@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import App from './app';
+import App from './root_app';
 import * as serviceWorker from './serviceWorker';
 
 import '@elastic/eui/dist/eui_theme_light.css';
