@@ -12,7 +12,7 @@ const Header = () => {
     <div>
       <EuiHeader>
         <EuiHeaderSectionItem border = "none" className = {style['header']}>
-          <EuiHeaderLogo>Wilo</EuiHeaderLogo>
+          <EuiHeaderLogo iconType = "visMapCoordinate">Wilo</EuiHeaderLogo>
         </EuiHeaderSectionItem>
       </EuiHeader>
     </div>
